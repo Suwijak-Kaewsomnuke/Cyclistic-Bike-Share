@@ -3,7 +3,7 @@
 You'll find my report during the analysis in Cyclistic_Notebook.ipynb file.
 This is a Dashboard I created with Power BI: <a href="https://app.powerbi.com/view?r=eyJrIjoiOWI3NWVkMzAtNzYxOC00NWFhLWE2N2QtOGRkNDdmNGZhZTI1IiwidCI6IjZmNDQzMmRjLTIwZDItNDQxZC1iMWRiLWFjMzM4MGJhNjMzZCIsImMiOjEwfQ%3D%3D"><nobr>Cyclistic Dashboard</nobr></a></p>
 
-I got some idea and inspiration from: [Ref](https://deepnote.com/@felix-chukwuemeka/Cyclistic-Bike-Sharing-Case-Study-8e25dfe0-b0a3-40b7-94c5-a9387797442f)
+I got some ideas and inspiration from: [Ref](https://deepnote.com/@felix-chukwuemeka/Cyclistic-Bike-Sharing-Case-Study-8e25dfe0-b0a3-40b7-94c5-a9387797442f)
 
 ## Here is some information I have before start the analysis:
 ### Scenario
